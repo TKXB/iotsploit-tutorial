@@ -1,12 +1,17 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to IoTSploit's documentation!
+=====================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**IoTSploit** is an open-source cybersecurity testing framework designed for IoT (Internet of Things) devices. It serves as a comprehensive suite of tools for identifying vulnerabilities and ensuring the robustness of IoT systems against potential threats.
 
-Check out the :doc:`usage` section for further information, including
+Key features of IoTSploit include:
+
+* **Vulnerability Detection**: Built-in tools to identify common IoT device vulnerabilities.
+* **Modular Design**: Flexibly integrate and swap out testing scripts and hardware.
+* **Multi-Transport Support**: Compatibility with various IoT protocols like MQTT, CoAP, and Zigbee.
+* **Automation Features**: Enables automated and repeatable testing processes.
+* **Community Support**: Offers detailed documentation and strong community backing.
+
+Check out the :doc:`get-started` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
@@ -18,5 +23,6 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   get-started
+   features
+   community
