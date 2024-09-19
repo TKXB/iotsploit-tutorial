@@ -14,7 +14,7 @@ Key features of IoTSploit include:
 .. image:: ../images/structure.svg
    :alt: IoTSploit Logo
    :align: center
-   :width: 300px
+   :width: 600px
 
 Check out the :doc:`get-started` section for further information, including
 how to :ref:`installation` the project.
