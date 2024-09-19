@@ -17,7 +17,41 @@ Key features of IoTSploit include:
 .. image:: ../images/structure.svg
    :alt: IoTSploit Logo
    :align: center
-   :width: 800px
+   :width: 1000px
+
+Features
+--------
+
+IoTSploit offers a comprehensive set of features designed to facilitate IoT security testing and research.
+
+Software Features
+^^^^^^^^^^^^^^^^^
+
+1. **Interactive Shell**: A user-friendly command-line interface for seamless interaction with the toolkit.
+2. **Exploit Framework**: Run and manage multiple exploit plugins for comprehensive vulnerability assessments.
+3. **Plugin Architecture**: Easily extend functionality through a modular plugin system for both exploits and device management.
+4. **Device Management**: Interact with and gather information from connected IoT devices.
+5. **OTA Management**: Check and manage software versions on IoT devices.
+6. **Flexible Testing Framework**: Support for various test levels and projects, allowing customized testing scenarios.
+7. **Integrated Reporting**: Comprehensive logging and reporting capabilities for test results and system interactions.
+8. **Django Integration**: Built-in Django server for web-based interactions and reporting.
+9. **Network Configuration**: Tools for managing Wi-Fi connections and network settings.
+
+Hardware Features
+^^^^^^^^^^^^^^^^^
+
+1. **M2 KEYE Slot**: A versatile hardware interface allowing for quick swapping of various hardware modules.
+2. **Modular Design**: Easily interchange hardware components to adapt to different IoT testing scenarios.
+3. **Extensible Hardware Support**: The ability to integrate new hardware modules as IoT technologies evolve.
+4. **Unified Hardware Interface**: Abstract complex hardware interactions through a consistent software interface.
+
+.. image:: ../images/hardware.png
+   :alt: IoTSploit Hardware
+   :align: center
+   :width: 1000px 
+
+.. note::
+   The combination of flexible software and modular hardware makes IoTSploit a powerful and adaptable platform for comprehensive IoT security testing.
 
 Check out the :doc:`get-started` section for further information, including
 how to :ref:`installation` the project.
@@ -34,3 +68,4 @@ Contents
    get-started
    features
    community
+
