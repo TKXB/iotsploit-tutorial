@@ -11,6 +11,11 @@ Key features of IoTSploit include:
 * **Automation Features**: Enables automated and repeatable testing processes.
 * **Community Support**: Offers detailed documentation and strong community backing.
 
+.. image:: ../images/structure.svg
+   :alt: IoTSploit Logo
+   :align: center
+   :width: 300px
+
 Check out the :doc:`get-started` section for further information, including
 how to :ref:`installation` the project.
 
