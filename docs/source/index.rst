@@ -14,7 +14,7 @@ Key features of IoTSploit include:
 3. **User-Friendly Interface**
    IoTSploit abstracts complex hardware interactions behind a unified software interface, significantly lowering the barrier to entry for IoT security testing. This intuitive design empowers practitioners of all skill levels to conduct thorough and effective security assessments with confidence.
 
-.. image:: ../images/structure.svg
+.. image:: ../images/structure2.svg
    :alt: IoTSploit Logo
    :align: center
    :width: 1000px
