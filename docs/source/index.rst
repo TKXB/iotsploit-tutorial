@@ -64,6 +64,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Welcome to IoTSploit's documentation!
 
    get-started
    features
