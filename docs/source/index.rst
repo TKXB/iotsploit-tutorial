@@ -64,8 +64,6 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
    get-started
    features
