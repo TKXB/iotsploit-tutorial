@@ -72,3 +72,10 @@ Contents
    community
    plugin
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutorials
+
+   tutorials/installation
+   tutorials/basic-commands
+
