@@ -82,6 +82,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Hardware Documentation
+
+   tutorials/iotsploit-nxp
+
+.. toctree::
+   :maxdepth: 2
    :caption: Reference
 
    api
