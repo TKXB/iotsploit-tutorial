@@ -85,6 +85,7 @@ Contents
    :caption: Hardware Documentation
 
    tutorials/iotsploit-nxp
+   tutorials/iotsploit-esp32
 
 .. toctree::
    :maxdepth: 2

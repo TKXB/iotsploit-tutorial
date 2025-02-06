@@ -1,12 +1,12 @@
-Overview
-********
+IoTSploit NXP Board
+==================
 
 .. figure:: ../../images/iotsploit_nxp.png
    :width: 800px
    :align: center
    :alt: IoTSploit Development Board
 
-   IoTSploit Development Board
+   IoTSploit NXP Development Board
 
 The IoTSploit development board features an NXP LPC4330FBD144 dual-core microcontroller
 with extensive connectivity support and configurations. Here are the key features of the
@@ -29,8 +29,8 @@ IoTSploit board:
     * Multiple LED indicators
     * Power status LEDs
 
-Hardware
-********
+NXP Hardware Components
+--------------------
 
 The IoTSploit board provides the following hardware components:
 
@@ -55,8 +55,8 @@ The IoTSploit board provides the following hardware components:
     * VBUS sensing and power management
     * USB power protection circuit
 
-Supported Features
-=================
+NXP Supported Features
+-------------------
 
 +-----------+------------+-------------------------------------+
 | Interface | Controller | Driver/Component                    |
@@ -76,19 +76,19 @@ Supported Features
 | SPI Flash | on-chip    | flash memory                        |
 +-----------+------------+-------------------------------------+
 
-System Clock
-===========
+NXP System Clock
+-------------
 
 The IoTSploit board is configured to use the 25MHz external oscillator 
 with additional MCU_XTAL for precise timing operations.
 
-Programming and Debugging
-***********************
+NXP Programming and Debugging
+--------------------------
 
 The IoTSploit board includes both DFU and SPIFI programming interfaces.
 
-Flashing
-========
+NXP Flashing Methods
+-----------------
 
 The board can be flashed through:
 
