@@ -70,7 +70,6 @@ Contents
    get-started
    features
    community
-   plugin
 
 .. toctree::
    :maxdepth: 2
@@ -78,4 +77,5 @@ Contents
 
    tutorials/installation
    tutorials/basic-commands
-
+   tutorials/plugin
+   tutorials/hardware-pinout
