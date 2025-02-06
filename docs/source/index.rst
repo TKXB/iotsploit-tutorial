@@ -79,3 +79,9 @@ Contents
    tutorials/basic-commands
    tutorials/plugin
    tutorials/hardware-pinout
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Reference
+
+   api
